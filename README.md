@@ -28,14 +28,14 @@ To compile this package, download the ARMv7 cross-compile SDK to  :
 ```
 git clone https://github.com/kappaIO-Dev/kappaIO-toolchain-crosscompile-armhf.git
 ```
-Download rsserial to `package` folder of the SDK:
+Download rsserial to `package/` folder of the SDK:
 
 ```
 cd kappaIO-toolchain-crosscompile-armhf/package
 git clone https://github.com/kappaIO-Dev/rsserial.git
 ```
 
-Build the code:
+Build & install:
 ```
 cd kappaIO-toolchain-crosscompile-armhf/package/rsserial/build
 ./build root@192.168.1.15 
