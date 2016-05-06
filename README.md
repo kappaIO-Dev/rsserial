@@ -12,8 +12,9 @@ Supported hardware:
 - ZigBee Module: 
  - TI CC2531 USB dongle with Z-Stack 2.5.1a; for firmware images, go to [https://kappa.io/download#cc2531-dongle](https://kappa.io/download#cc2531-dongle)
 
-
-##Compile & Install:
+##Native Compilation
+** IN PROGRESS **
+##Cross Compile by PC, run on Raspberry Pi
 Currently RSSERIAL only supports cross-compilation - compilation is done by PC, and the resulting .deb package is installed to Raspberry Pi. Native compilation in PC ( yes, you run the gateway using desktop) or Raspberry Pi enviroment are in progress.
 ###Things you need to do in Rapsberry Pi
 
