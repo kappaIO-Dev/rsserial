@@ -45,6 +45,7 @@ Substitute the IP address with LAN IP of your Raspberry Pi.
 
 For questions : dev@kapparock.com
 
+##License
 The MIT License (MIT)
 
 Copyright (c) 2016 kappaIO
